@@ -1,0 +1,9 @@
+build/
+.vs/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.user
+CMakeSettings.json
