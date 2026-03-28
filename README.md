@@ -1,13 +1,5 @@
 # CpherTunnel
 
-مكتبة C++ لبروتوكول Minecraft Bedrock Edition.
+A C++ library for the Minecraft Bedrock Edition protocol.
 
-> **⚠️ هذا المشروع قيد التطوير وغير مستقر جداً. لا تستخدمه في بيئة إنتاجية.**
-
-## البناء
-
-```bash
-mkdir build && cd build
-cmake ..
-cmake --build . --config Release
-```
+> **⚠️ This project is under development and is very unstable. Do not use it in a production environment.*
