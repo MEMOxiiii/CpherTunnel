@@ -1,0 +1,16 @@
+build/
+.vs/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.user
+CMakeSettings.json
+
+# Temp build/debug files
+*.txt
+!CMakeLists.txt
+!README.md
+do_build*.py
+build_check.ps1

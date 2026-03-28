@@ -1,0 +1,15 @@
+// CpherTunnel - inventory_packets (aggregator)
+#pragma once
+#include "container_open_packet.hpp"
+#include "container_close_packet.hpp"
+#include "container_set_data_packet.hpp"
+#include "player_hotbar_packet.hpp"
+#include "gui_data_pick_item_packet.hpp"
+#include "container_registry_cleanup_packet.hpp"
+#include "player_toggle_crafter_slot_request_packet.hpp"
+#include "set_player_inventory_options_packet.hpp"
+#include "completed_using_item_packet.hpp"
+#include "anvil_damage_packet.hpp"
+#include "player_start_item_cooldown_packet.hpp"
+#include "update_equip_packet.hpp"
+#include "update_trade_packet.hpp"
